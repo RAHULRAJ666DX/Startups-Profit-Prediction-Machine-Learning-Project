@@ -1,1 +1,1 @@
-# 50_StartUps_Linear_Regression_Project
+# Startups Profit Prediction Machine Learning Project
